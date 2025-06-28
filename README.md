@@ -1,9 +1,21 @@
 ## Hi there 👋
- 
-🔭 I'm Ubaid Raza and I'm a Web and Mobile App Developer,
-   Currently I'm Assesting a Web and Mobile App development Class in SMIT,
-   One of my goal is Opening my own software development Company,
-   I'm 17 year old and I resently passed first year,
-💬 If you want to Ask any thing About me text on My Other social Media Platforms.
 
-@ubaid Rehan---Linkdin
+
+Hi there! 👋
+
+I'm a Full Stack Developer with a passion for building fast, user-friendly, and scalable web applications. From crafting elegant frontends in React to designing powerful REST APIs with Node.js and Express — I love working across the entire web development stack.
+
+I specialize in:
+- 🔹 JavaScript (ES6+)
+- 🔹 React.js, Next.js
+- 🔹 Node.js, Express
+- 🔹 MongoDB, Firebase
+- 🔹 HTML5, CSS3, Tailwind CSS
+- 🔹 Git & GitHub, REST APIs
+
+🔭 Currently working on: Volentere and Assisting a class in SMIT  
+🌱 Always learning: Clean Code, Advanced React Patterns, and Devops Basics  
+📫 How to reach me: [@itsubaidrehan@gmail.com] | [@ubaid Rehan] | [your portfolio]
+
+Let's connect and build something amazing together! 🚀
+
