@@ -13,7 +13,7 @@ I specialize in:
 
 🔭 Currently working on: Volentere and Assisting a class in SMIT  
 🌱 Always learning: Clean Code, Advanced React Patterns, and Devops Basics  
-📫 How to reach me: [@itsubaidrehan@gmail.com] | [in/ubaid-rehan-58a860371] | [your portfolio]
+📫 How to reach me: [@itsubaidrehan@gmail.com] | [in/ubaid-rehan-58a860371]
 
 Let's connect and build something amazing together! 🚀
 
