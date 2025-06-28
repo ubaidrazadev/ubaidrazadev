@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 
-Hi there! 👋
-
 I'm a Full Stack Developer with a passion for building fast, user-friendly, and scalable web applications. From crafting elegant frontends in React to designing powerful REST APIs with Node.js and Express — I love working across the entire web development stack.
 
 I specialize in:
@@ -15,7 +13,12 @@ I specialize in:
 
 🔭 Currently working on: Volentere and Assisting a class in SMIT  
 🌱 Always learning: Clean Code, Advanced React Patterns, and Devops Basics  
-📫 How to reach me: [@itsubaidrehan@gmail.com] | [@ubaid Rehan] | [your portfolio]
+📫 How to reach me: [@itsubaidrehan@gmail.com] | [in/ubaid-rehan-58a860371] | [your portfolio]
 
 Let's connect and build something amazing together! 🚀
+
+
+🚀 Full Stack Developer | React ⚛️ • Node.js 🌐 • MongoDB 🍃  
+🔧 Turning coffee ☕ into code  
+🎯 Focused on performance, scalability, and clean code  
 
