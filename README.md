@@ -7,7 +7,7 @@ I specialize in:
 - 🔹 JavaScript (ES6+)
 - 🔹 React.js, Next.js
 - 🔹 Node.js, Express
-- 🔹 MongoDB, Firebase
+- 🔹 Firebase
 - 🔹 HTML5, CSS3, Tailwind CSS
 - 🔹 Git & GitHub, REST APIs
 
@@ -18,7 +18,7 @@ I specialize in:
 Let's connect and build something amazing together! 🚀
 
 
-🚀 Full Stack Developer | React ⚛️ • Node.js 🌐 • MongoDB 🍃  
+🚀 Full Stack Developer | React ⚛️ • Node.js 🌐 • Firebase 🍃  
 🔧 Turning coffee ☕ into code  
 🎯 Focused on performance, scalability, and clean code  
 
